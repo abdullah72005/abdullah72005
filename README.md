@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Hesham</h1>
-<h3 align="center">A passionate Software Developer from Egypt</h3>
+<h3 align="center">A Software Developer from Egypt</h3>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdullah72005](https://github.com/abdullah72005)
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://abdullahs-resume.tiiny.site](https://abdullahs-resume.tiiny.site)
 
-- ⚡ Fun fact **I love computers**
+- ⚡ **I made Ultimate Toolbox**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
