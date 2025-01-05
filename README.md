@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abdullahhesham005@gmail.com**
 
-- 📄 Know about my experiences [https://abdullahs-resume.tiiny.site](https://abdullahs-resume.tiiny.site)
+- 📄 Know about my experiences [https://abdullahsresume.tiiny.site/](https://abdullahsresume.tiiny.site/)
 - ⚡ **I made Ultimate Toolbox**
 
 <h3 align="left">Connect with me:</h3>
