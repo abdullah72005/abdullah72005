@@ -1,12 +1,13 @@
 # 💫 About Me:
-- Backend developer working mainly with Python and Django<br>
-- Building REST APIs and backend systems with a focus on clean architecture<br>
-- Worked with multi-tenant systems, authentication, and PostgreSQL<br> 
-- Uses Docker and CI/CD for development and deployment workflows<br> 
-- Interested in system design and backend scalability
-- How to reach me **abdullahhesham005@gmail.com**
-- Know about my experiences [https://abdullahsresume.tiiny.site/](https://abdullahsresumee.tiiny.site)
-- ⚡ **I made Ultimate Toolbox**
+- Backend developer (Python, Django)  
+- Building REST APIs and backend systems  
+- Experience with PostgreSQL, authentication, and multi-tenant design  
+- Using Docker and CI/CD in development workflows  
+- Interested in system design and scalability  
+
+- Reach me: **abdullahhesham005@gmail.com**  
+- Resume: https://abdullahsresume.tiiny.site  
+- ⚡ Built Ultimate Toolbox
 
 
 ## 🌐 Socials:
