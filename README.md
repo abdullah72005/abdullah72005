@@ -4,7 +4,6 @@
 - Experience with PostgreSQL, authentication, and multi-tenant design  
 - Using Docker and CI/CD in development workflows  
 - Interested in system design and scalability  
-
 - Reach me: **abdullahhesham005@gmail.com**  
 - Resume: https://abdullahsresume.tiiny.site  
 - ⚡ Built Ultimate Toolbox
